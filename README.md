@@ -60,4 +60,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kriti_Arora-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kriti-arora01)
 ---
 
-⭐ *"Code is like humor. When you have to explain it, it's bad."*
+
